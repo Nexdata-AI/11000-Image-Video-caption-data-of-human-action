@@ -3,7 +3,7 @@
 ## Description
 20,000 Image & Video caption data of human action contains 20,000 images and 10,000 videos of various human behaviors in different seasons and different shooting angles, including indoor scenes and outdoor scenes. The description language is English, mainly describing the gender, age, clothing, behavior description and body movements of the characters.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1289?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/llm/1289?source=Github
 
 
 ## Data size
